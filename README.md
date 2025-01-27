@@ -18,6 +18,5 @@ If you have any questions or comments, you are more than welcome to contact me.
 | Name                              | Difficulty | Type         |Date Completed|
 | --------------------------------- | ---------- | ------------ | -------------|
 | [ReplaceMe](Pwn/Replaceme.md)      | Medium       | Pwn          | 1/20/2025     |
-| [Machine2](path/to/Machine2)      | Medium     | Network      | 1/1/2025     |
-| [Challenge1](path/to/Challenge1)  | Hard       | Cryptography | 1/1/2025     |
+
 
